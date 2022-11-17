@@ -25,7 +25,7 @@ I’m currently learning Laravel, ReactJs, ExpressJs.
 
 
 <a href="https://github.com/wahyupambudi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyupambudi&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyupambudi&repo=ReactJs-CRUD&theme=buefy" />
 </a>
 <a href="https://github.com/wahyupambudi/wahyupambudi.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyupambudi&repo=wahyupambudi.github.io&theme=buefy" />
