@@ -1,4 +1,4 @@
-<p align="center"><a href="https://wahyupambudi.github.io"><img width="80%" alt="Hello, I'm Wahyu Pambudi. I'm Learner!" src="./assets/awonapalogo.png" /></a></p>
+<p align="center"><a href="https://wahyupambudi.github.io"><img width="80%" alt="Hello, I'm Wahyu Pambudi. I'm Learner!" src="./assets/wahyup.png" /></a></p>
 <br />
 
 I’m currently learning Laravel, ReactJs, ExpressJs.
