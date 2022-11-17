@@ -7,9 +7,7 @@ I’m currently learning Laravel, ReactJs, ExpressJs.
 
 - 💼 Sharing Writer at [Awonapa](https://awonapa.com/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing Javascript, and Keep Learn.
 
 - 💬 Ask me about anything [here](https://github.com/wahyupambudi/wahyupambudi/issues)
 
